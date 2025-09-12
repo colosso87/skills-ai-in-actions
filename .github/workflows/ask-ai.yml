@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           prompt: |
-            Give me a programming joke.
+            Me fale sobre o inicío de Adolf Hitler no exército.
 
       - name: Display AI Response
         run: |
